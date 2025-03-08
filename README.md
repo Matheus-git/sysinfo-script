@@ -6,6 +6,8 @@ This is a Bash script designed to provide detailed system information in an inte
 
 **This project was developed in just a few hours as part of a training exercise over the weekend.**
 
+![Script Screenshot](assets/printscreen.png)
+
 ## Features
 
 - **System Information**: Displays hostname, kernel version, and distribution details.
